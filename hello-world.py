@@ -1,2 +1,2 @@
 print('Hello World for Jenkins Job.')
-print("yeni düzenleme yaptım")
+print("yeni düzenleme yaptım.")
