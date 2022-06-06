@@ -1,1 +1,1 @@
-# git_ders
+# jenkins ders uygulamaları
