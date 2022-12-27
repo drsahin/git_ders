@@ -1,5 +1,5 @@
 # jenkins ders uygulamaları
-# Hands-on Jenkins-02 : Triggering Jenkins Jobs
+Triggering Jenkins Jobs
 
 Purpose of the this hands-on training is to learn how to trigger Jenkins jobs with different ways.
 
