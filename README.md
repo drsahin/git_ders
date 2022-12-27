@@ -11,20 +11,9 @@ At the end of the this hands-on training, students will be able to;
 
 - trigger Jenkins jobs with webhook
 
-- trigger Jenkins jobs with Poll SCM
-
-
 ## Outline
 
 - Part 1 - Integrating Jenkins with GitHub using Webhook
-
-- Part 2 - Integrating Jenkins Pipeline with GitHub Webhook
-
-- Part 3 - Configuring Jenkins Pipeline with GitHub Webhook to Run the Python Code
-
-- Part 4 - Creating a Pipeline with Poll SCM
-
-
 
 ## Part 1 - Integrating Jenkins with GitHub using Webhook
 
